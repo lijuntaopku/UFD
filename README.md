@@ -1,5 +1,5 @@
 # UFD
-Code for Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model, IJCAI 2020
+Code for "Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model"[[pdf]](./IJCAI__PRICAI__2020.pdf), IJCAI 2020.
 
 
 # Data

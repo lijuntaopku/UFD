@@ -17,7 +17,7 @@ Code for Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language M
 
 
 # Reference
-
+If you find this code is helpful, please cite:
 ```
 @article{li2020unsupervised,
   title={Unsupervised domain adaptation of a pretrained cross-lingual language model},

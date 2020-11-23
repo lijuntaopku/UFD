@@ -6,7 +6,9 @@ Code for "Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language 
 
 
 # Training and Evaluation
-
+```
+python train.py
+```
 
 # Requirements
 * Python 3.6.9

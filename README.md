@@ -9,11 +9,9 @@ Code for "Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language 
 
 
 # Requirements
-* 
-* 
-* 
-* 
-* 
+* Python 3.6.9
+* PyTorch-GPU 1.3.1
+
 
 
 # Reference

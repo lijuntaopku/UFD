@@ -246,7 +246,7 @@ if __name__ == '__main__':
     loss_optim = Adam(loss_fn.parameters(), lr=1e-4)
     
     #load raw text for training UFD
-    raw_data = load_raw('./data/raw.15.txt')
+    raw_data = load_raw('./data/raw.0.6.txt')
     #load data from source language and source domain
     train_book = load_train('./data/en/books/train.txt')
     train_dvd = load_train('./data/en/dvd/train.txt')
